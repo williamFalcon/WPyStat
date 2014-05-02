@@ -22,4 +22,9 @@ SAMPLE USE
         
         #predict the y value of x = 1.2
         print(function(1.2))
+        
+        #output
+        Linear regression equation = 2 + 1(x)
+        R factor (correlation) = 0.960158717038
+        3.2 (prediction for x = 1.2)
 ```  
